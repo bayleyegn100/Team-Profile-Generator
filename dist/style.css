@@ -1,0 +1,16 @@
+.jumbotron {
+    text-align: center;
+    background-color: rgb(117, 151, 120);
+    color: white;
+    height: 150px;
+    padding-bottom: 100px;
+}
+
+.card-header {
+    background-color: rgb(83, 131, 175);
+    font-size: 30px;
+   
+}
+.list-group-item {
+    font-size: 20px;
+}
